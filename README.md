@@ -2,9 +2,7 @@
 
 ## Layout do projeto concluído:
 
-![Snake Game](F:\Users\Bruner\Documents\GitHub\Snake Game\snake-game\Imgs\Snake Game.gif)
-
-[TOC]
+<img href="Imgs/Snake Game.gif"></img>
 
 ## 🚀 Sobre o desafio
 
