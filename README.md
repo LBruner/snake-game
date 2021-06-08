@@ -2,7 +2,7 @@
 
 ## Layout do projeto concluído:
 
-<img href="Imgs/Snake Game.gif"></img>
+![](Snake Game.gif)
 
 ## 🚀 Sobre o desafio
 
